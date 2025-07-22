@@ -27,10 +27,8 @@
 
 ---
 
-### 👻 Animação Pac-Man nos commits
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/leoacferraz/leoacferraz/blob/output/github-contribution-grid-pacman.svg" />
 </p>
 
 ---
