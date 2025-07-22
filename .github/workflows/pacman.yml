@@ -1,0 +1,25 @@
+name: Pacman Commit Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # executa diariamente
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pacman animation
+        uses: Platane/pacman@main
+        with:
+          github_user_name: leoacferraz
+          gif_out_path: dist/github-contribution-grid-pacman.gif
+          svg_out_path: dist/github-contribution-grid-pacman.svg
+
+      - name: Push animation to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
