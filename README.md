@@ -57,4 +57,4 @@
 
 ### 📬 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/leonardoacferraz/)
-- 📫 Email: leoalvo89@gmail.com
+- 📫 Email: leoacferraz@gmail.com
