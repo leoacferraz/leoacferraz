@@ -1,18 +1,45 @@
-<h1 align="center">Olá! Eu sou o Leonardo 👋</h1>
+<h1 align="center">Olá! Eu sou o Leonardo Ferraz 👋</h1>
 
 <p align="center">
-  <i>Desenvolvedor Java em transição de carreira com 17 anos de experiência no mercado financeiro.</i><br/>
-  <i>Atualmente focado em backend com Spring Boot e construção de projetos reais.</i>
+  Desenvolvedor Backend Java | Spring Boot | Microserviços  
+</p>
+
+<p align="center">
+  Em transição de carreira após 17 anos no mercado financeiro (Tesouraria / Renda Fixa).  
+  Hoje atuo como desenvolvedor backend, focado em criar APIs, resolver problemas reais e construir sistemas modernos e escaláveis.
 </p>
 
 ---
 
-### 📈 Minhas estatísticas no GitHub
+## 🧩 Projetos em destaque
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leoacferraz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leoacferraz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 🏟️ **NoteSoccer (Voluntário — Pipoca Ágil)**
+Arquitetura em microserviços utilizando Java 21 + Spring Boot:
+
+🔸 Autenticação e usuários  
+🔸 Criação e gestão de ligas e equipes  
+🔸 Agendamento e gestão de partidas  
+🔸 Serviço de orquestração  
+🔸 Deploy com Render / Netlify  
+🔸 Banco PostgreSQL (Supabase)
+
+> Projeto real, com time multidisciplinar, seguindo práticas profissionais de desenvolvimento.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leoacferraz&show_icons=true&theme=tokyonight"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leoacferraz&layout=compact&theme=tokyonight"
+    height="170"
+  />
+</p>
+
 
 ---
 
@@ -55,6 +82,13 @@
 
 ---
 
-### 📬 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardoacferraz/)
-- 📫 Email: leoacferraz@gmail.com
+## 📫 Onde me encontrar
+
+- 🔗 **LinkedIn:** https://linkedin.com/in/leoacferraz  
+- 📧 **Email:** leoacferraz@gmail.com  
+- 📍 São Paulo – SP  
+
+---
+
+### ✨ Obrigado por visitar meu perfil!  
+Se quiser trocar ideia sobre Java, microserviços, carreira tech ou projetos voluntários, estou à disposição 😊
