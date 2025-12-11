@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  Em transição de carreira após 17 anos no mercado financeiro (Tesouraria / Renda Fixa).  
-  Hoje atuo como desenvolvedor backend, focado em criar APIs, resolver problemas reais e construir sistemas modernos e escaláveis.
+  Atuo como desenvolvedor backend, criando APIs robustas, solucionando problemas reais e construindo sistemas modernos, seguros e escaláveis. Sou movido por boas práticas, arquitetura limpa e entrega contínua.
 </p>
 
 ---
@@ -21,6 +20,8 @@
   <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-Architecture-FFB800?style=for-the-badge&logoColor=white" />
 </p>
+
+---
 
 ## 🧩 Projetos em destaque
 
