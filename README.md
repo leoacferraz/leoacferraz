@@ -30,16 +30,13 @@ Arquitetura em microserviços utilizando Java 21 + Spring Boot:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leoacferraz&show_icons=true&theme=tokyonight"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leoacferraz&layout=compact&theme=tokyonight"
-    height="170"
-  />
+  <img src="https://raw.githubusercontent.com/leoacferraz/leoacferraz/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/leoacferraz/leoacferraz/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/leoacferraz/leoacferraz/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+</p>
 
 ---
 
