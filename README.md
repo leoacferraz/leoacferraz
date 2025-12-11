@@ -1,7 +1,5 @@
-<h1 align="center">Olá! Eu sou o Leonardo Ferraz 👋</h1>
-
 <p align="center">
-  Desenvolvedor Backend Java | Spring Boot | Microserviços  
+  <img src="https://raw.githubusercontent.com/leoacferraz/leoacferraz/main/capa-github.png" alt="Leonardo Ferraz Banner" />
 </p>
 
 <p align="center">
